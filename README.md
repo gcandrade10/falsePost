@@ -32,3 +32,5 @@ $ sh start.sh
 
 ![alt text](https://github.com/igomez10/falsePost/blob/master/result.png?raw=true "Logs")
 
+## For powershell in windows: 
+ do { node .\falsepost.js}while(1);
